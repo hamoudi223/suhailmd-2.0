@@ -18,7 +18,7 @@ global.DATABASE_URL = process.env.DATABASE_URL || "postgresql://zokou_uszr_user:
 
 global.timezone= process.env.TZ || process.env.TIME_ZONE || "Africa/Mali";
 global.github=process.env.GITHUB|| "https://github.com/GlobalTechInfo/SUHAIL-XMD";
-global.gurl  =process.env.GURL  || "https://chat.whatsapp.com/KnVwkSJKwJcKuE4rhR5CfX";
+global.gurl  =process.env.GURL  || "https://whatsapp.com/channel/0029Vak6MDN9xVJca6oPWb1Z";
 global.website=process.env.GURL || "https://chat.whatsapp.com/KnVwkSJKwJcKuE4rhR5CfX" ; 
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://iili.io/2zrKwGf.jpg" || "https://iili.io/2zragCx.jpg" ; // SET LOGO FOR IMAGE 
 global.caption = process.env.CAPTION || global.caption || "ᴜɴ ʙᴏᴛ ᴅᴇᴘʟᴏʏé ᴘᴀʀ ᴛʜᴀᴛᴋɪᴅ•" 
